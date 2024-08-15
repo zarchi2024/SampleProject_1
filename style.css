@@ -1,0 +1,6 @@
+body {
+    background-color: #333;
+    color: rgb(202, 218, 20);
+    display: grid;
+    place-content: center;
+}
